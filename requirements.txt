@@ -40,6 +40,7 @@ orjson>=3.9.0
 pydantic>=2.5.0
 
 # Optional (for advanced parsing / HTML cleanup)
-html5lib>=1.1streamlit
+html5lib>=1.1
+streamlit
 langchain-google-genai
 ddgs
